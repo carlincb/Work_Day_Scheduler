@@ -51,7 +51,7 @@ The following animation shows the web application's appearance and functionality
 
 Please see below for examples of this webpage, which demonstrate its functionality:
 
-### Initial Page: Business Hours Color Code Functionality View
+### Color Code Functionality View
 
 ![1](assets/images/1.png)
 
