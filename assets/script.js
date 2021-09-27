@@ -1,3 +1,9 @@
+// Adding Current Date to Page
+$(document).ready(function getCurrentDate(){
+    var currentDate = $("#currentDay");
+    currentDate.text(moment().format("MMMM Do, YYYY"));
+});
+
 // Creating elements in the html and adding functionality to page.
 function createTimeBlock(hour){
     // Creating variables to add elements to html file.
