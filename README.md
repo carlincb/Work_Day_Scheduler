@@ -51,9 +51,13 @@ The following animation shows the web application's appearance and functionality
 
 Please see below for examples of this webpage, which demonstrate its functionality:
 
-### Initial Page View
+### Initial Page View: Outside Business Hours
 
 ![1](assets/images/1.png)
+
+###  Color Code Functionality View: Inside Business Hours
+
+![2](assets/images/2.png)
 
 ###  Saved Data and Saved Local Storage View
 
