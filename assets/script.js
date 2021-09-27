@@ -6,8 +6,10 @@ function createTimeBlock(hour){
     var hoursDiv = $("<div>");
     var textArea = $("<textarea>");
     var saveBtn = $("<button>");
+
     // Using Moment.js to change the variable hour into a string of the time associated with that number.
     var hourText = moment(hour.toString(), "h").format("hA");
+
     // Using Bootstrap to format new content.
     timeBlockDiv.addClass("row time-block");
     hoursDiv.addClass("hour col-md-1").append(hourText);
@@ -15,6 +17,7 @@ function createTimeBlock(hour){
     saveBtn.addClass("btn saveBtn col-md-1").append($("<i>").addClass("fas fa-save"));
     timeBlockDiv.append(hoursDiv).append(textArea).append(saveBtn);
     container.append(timeBlockDiv);
+
     // Linking formatting for past, present, and future 
     if(parseInt(moment().format("H"))===hour){
         textArea.addClass("present");
@@ -33,7 +36,8 @@ function init(){
             createTimeBlock(i); 
         };
     };
-// Getting id of text area and value of text area and saves to local storage
+
+// Getting id of text area and value of text area and saving to local storage
 $(".saveBtn").on("click", function(){
     var id = $(this).siblings("textarea").attr("id");
     var events = $(this).siblings("textarea").val();
