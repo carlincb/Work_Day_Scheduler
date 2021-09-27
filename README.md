@@ -2,7 +2,7 @@
 
 ## Description
 
-- What was my motivation? I needed to create a calendar application that allows a user to save events for each hour during the work day. I needed to display my knowledge of jQuery, Momentum.js, Font Awesome, and Bootstrap.
+- What was my motivation? I needed to create a calendar application that allowed a user to save events for each hour during the work day. I needed to display my knowledge of jQuery, Momentum.js, Font Awesome, and Bootstrap.
 - Why did I build this project? I built this project to better understand how to implement Momentum.js and third-party APIs. I also needed practice using jQuery, Font Awesome, and Bootstrap.
 - What problem does it solve? This project creates a calendar for a standard work day that saves events.
 - What did I learn? I learned about Momentum.js, jQuery, Bootstrap, and Font Awesome.
@@ -19,27 +19,27 @@
 
 Although this is simply a webpage and no installation is necessary, there were certain criteria that had to be met in order to complete this project:
 
-  User Story
+    User Story
 
-  AS AN employee with a busy schedule
-  I WANT to add important events to a daily planner
-  SO THAT I can manage my time effectively
+    AS AN employee with a busy schedule
+    I WANT to add important events to a daily planner
+    SO THAT I can manage my time effectively
 
-  Acceptance Criteria
+    Acceptance Criteria
 
-  GIVEN I am using a daily planner to create a schedule
-  WHEN I open the planner
-  THEN the current day is displayed at the top of the calendar
-  WHEN I scroll down
-  THEN I am presented with timeblocks for standard business hours
-  WHEN I view the timeblocks for that day
-  THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-  WHEN I click into a timeblock
-  THEN I can enter an event
-  WHEN I click the save button for that timeblock
-  THEN the text for that event is saved in local storage
-  WHEN I refresh the page
-  THEN the saved events persist
+    GIVEN I am using a daily planner to create a schedule
+    WHEN I open the planner
+    THEN the current day is displayed at the top of the calendar
+    WHEN I scroll down
+    THEN I am presented with timeblocks for standard business hours
+    WHEN I view the timeblocks for that day
+    THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+    WHEN I click into a timeblock
+    THEN I can enter an event
+    WHEN I click the save button for that timeblock
+    THEN the text for that event is saved in local storage
+    WHEN I refresh the page
+    THEN the saved events persist
 
 ### Mock-Up
 
@@ -51,15 +51,11 @@ The following animation shows the web application's appearance and functionality
 
 Please see below for examples of this webpage, which demonstrate its functionality:
 
-### Initial Page
+### Initial Page View
 
 ![1](assets/images/1.png)
 
-###  View During the Work Day
-
-![2]()
-
-###  Saved Data and Saved Local Storage
+###  Saved Data and Saved Local Storage View
 
 ![3](assets/images/3.png)
 
