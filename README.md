@@ -78,6 +78,6 @@ Please see below for examples of this webpage, which demonstrate its functionali
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 ## Links
-[Live Link]()
+[Live Link](https://carlincb.github.io/Work_Day_Scheduler/)
 
 [GitHub Link](https://github.com/carlincb/Work_Day_Scheduler)
