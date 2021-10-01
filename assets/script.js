@@ -48,9 +48,6 @@ $(".saveBtn").on("click", function(){
     var id = $(this).siblings("textarea").attr("id");
     var events = $(this).siblings("textarea").val();
     localStorage.setItem(id, events);
-    console.log(id);
-    console.log(events);
-    console.log("connected");
 });
 
 // Getting values from local storage and populating text areas on page load.
