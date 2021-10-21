@@ -41,12 +41,6 @@ Although this is simply a webpage and no installation is necessary, there were c
     WHEN I refresh the page
     THEN the saved events persist
 
-### Mock-Up
-
-The following animation shows the web application's appearance and functionality:
-
-![A user clicks on slots on the color-coded calendar and edits the events.](assets/images/05-third-party-apis-homework-demo.gif)
-
 ## Usage
 
 Please see below for examples of this webpage, which demonstrate its functionality:
@@ -55,25 +49,27 @@ Please see below for examples of this webpage, which demonstrate its functionali
 
 ![1](assets/images/1.png)
 
-###  Saved Data and Saved Local Storage View
+### Saved Data and Saved Local Storage View
 
 ![2](assets/images/2.png)
 
-
 ## Credits
+
 - https://momentjs.com/
-- https://getbootstrap.com/ 
-- https://fontawesome.com/ 
-- https://blog.jquery.com/ 
+- https://getbootstrap.com/
+- https://fontawesome.com/
+- https://blog.jquery.com/
 - https://javascript.info/
 - https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-virt-fsf-pt-08-2021-u-c/-/tree/master/05-Third-Party-APIs/02-Homework
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-
+- https://unsplash.com/
 
 ## License
+
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 ## Links
+
 [Live Link](https://carlincb.github.io/Work_Day_Scheduler/)
 
 [GitHub Link](https://github.com/carlincb/Work_Day_Scheduler)
