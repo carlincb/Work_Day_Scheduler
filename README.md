@@ -60,7 +60,6 @@ Please see below for examples of this webpage, which demonstrate its functionali
 - https://fontawesome.com/
 - https://blog.jquery.com/
 - https://javascript.info/
-- https://du.bootcampcontent.com/denver-coding-bootcamp/du-den-virt-fsf-pt-08-2021-u-c/-/tree/master/05-Third-Party-APIs/02-Homework
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 - https://unsplash.com/
 
