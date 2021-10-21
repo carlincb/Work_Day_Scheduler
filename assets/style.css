@@ -1,5 +1,5 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1;
 }
@@ -53,7 +53,7 @@ textarea {
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #8bb68b;
   color: white;
 }
 
@@ -61,7 +61,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06aed5;
+  background-color: #104552;
   color: white;
 }
 
