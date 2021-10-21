@@ -31,7 +31,7 @@ textarea {
 
 .time-block {
   text-align: center;
-  border-radius: 15px;
+  border-radius: 1.5rem;
 }
 
 .row {
@@ -62,7 +62,7 @@ textarea {
 }
 
 .saveBtn {
-  border-left: 1px solid black;
+  border-left: 0.1rem solid black;
   border-top-right-radius: 1.5rem;
   border-bottom-right-radius: 1.5rem;
   background-color: #104552;
@@ -70,6 +70,16 @@ textarea {
 }
 
 .saveBtn i:hover {
-  font-size: 20px;
+  font-size: 0.2rem;
   transition: all 0.3s ease-in-out;
+}
+@media screen and (max-width: 767px) {
+  .time-block {
+    height: 10rem;
+  }
+  .saveBtn,
+  .hour,
+  textarea {
+    border-radius: 1.5rem;
+  }
 }
