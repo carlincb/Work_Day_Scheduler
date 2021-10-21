@@ -14,6 +14,7 @@
 - [Credits](#credits)
 - [License](#license)
 - [Links](#links)
+- [Contact](#contact)
 
 ## Installation
 
@@ -72,3 +73,7 @@ Please see below for examples of this webpage, which demonstrate its functionali
 [Live Link](https://carlincb.github.io/Work_Day_Scheduler/)
 
 [GitHub Link](https://github.com/carlincb/Work_Day_Scheduler)
+
+## Contact
+
+Have questions? Please feel free to contact me at carlin.colleen@gmail.com.
