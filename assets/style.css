@@ -1,6 +1,7 @@
 html {
   font-size: 62.5%;
 }
+
 body {
   font-family: "Gloria Hallelujah", cursive;
   font-size: large;
@@ -18,12 +19,16 @@ textarea {
 
 .jumbotron {
   text-align: center;
-  background-color: rgba(32, 175, 218, 0.247);
   color: black;
-  border-radius: 0;
-  border-bottom: 10px solid black;
+  border-radius: 1rem;
+  border-bottom: 1rem solid black;
 }
-
+img {
+  border-radius: 3rem;
+  text-align: justify;
+  height: 5%;
+  width: 50vw;
+}
 .description {
   white-space: pre-wrap;
   padding: 1rem;
